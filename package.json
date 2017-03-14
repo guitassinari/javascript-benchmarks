@@ -1,0 +1,22 @@
+{
+  "name": "javascript-benchmarks",
+  "version": "1.0.0",
+  "description": "Javascipr benchmark comparisons",
+  "main": "benchmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guitassinari/javascript-benchmarks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guitassinari/javascript-benchmarks/issues"
+  },
+  "homepage": "https://github.com/guitassinari/javascript-benchmarks#readme",
+  "dependencies": {
+    "benchmark": "^2.1.3"
+  }
+}
